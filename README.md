@@ -23,6 +23,7 @@ Full stack developer with over 6 years of hands-on experience building, upgradin
 ![Razor](https://img.shields.io/badge/Razor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Telerik UI](https://img.shields.io/badge/Telerik%20UI-0095D9?style=for-the-badge&logo=telerik&logoColor=white)
 ![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge&logo=devexpress&logoColor=white)
+![MudBlazor](https://img.shields.io/badge/MudBlazor-UI%20Component%20Library-593196?style=for-the-badge)
 
 ### Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
