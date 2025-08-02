@@ -3,7 +3,6 @@
 Full stack developer with over 6 years of hands-on experience building, upgrading, and maintaining robust CRM systems and enterprise solutions using the Microsoft technology stack.
 
 ---
----
 
 ## 📌 What I Do
 
