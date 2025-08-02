@@ -3,6 +3,17 @@
 Full stack developer with over 6 years of hands-on experience building, upgrading, and maintaining robust CRM systems and enterprise solutions using the Microsoft technology stack.
 
 ---
+---
+
+## 📌 What I Do
+
+- ✅ Upgrade legacy CRM systems to modern .NET architectures.
+- ⚙️ Design modular, scalable, and maintainable enterprise apps.
+- 🎯 Create custom CRM modules tailored to client workflows.
+- 🚀 Build and expose secure REST APIs.
+- 🔐 Implement Redis caching and Docker-based environments.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -42,14 +53,3 @@ Full stack developer with over 6 years of hands-on experience building, upgradin
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
----
-
-## 📌 What I Do
-
-- ✅ Upgrade legacy CRM systems to modern .NET architectures.
-- ⚙️ Design modular, scalable, and maintainable enterprise apps.
-- 🎯 Create custom CRM modules tailored to client workflows.
-- 🚀 Build and expose secure REST APIs.
-- 🔐 Implement Redis caching and Docker-based environments.
-
----
