@@ -1,6 +1,6 @@
 ## 💼 Full Stack Developer | CRM Systems Specialist | Microsoft Technologies Enthusiast
 
-Full stack developer with over 6 years of hands-on experience building, upgrading, and maintaining robust CRM systems and enterprise solutions using the Microsoft technology stack.
+Full stack developer with over 8 years of hands-on experience building, upgrading, and maintaining robust ERP-CRM systems and enterprise solutions using the Microsoft technology stack.
 
 ---
 
